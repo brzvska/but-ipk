@@ -1,5 +1,5 @@
 ## HTTP Server in C that provides information about the system.
-BUT IPK project 1
+BUT IPK project 1<br>
 Author: Berezovska Anastasiia (xberez04).
 
 ---
